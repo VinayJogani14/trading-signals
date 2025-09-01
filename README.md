@@ -1,13 +1,6 @@
 # 🚀 Trading Decision Tool
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
-[![Roboquant](https://img.shields.io/badge/Roboquant-1.6+-green.svg)](https://roboquant.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 A powerful **real-time trading decision application** built with **Streamlit** and **Roboquant** that provides data-driven buy/sell recommendations using advanced technical analysis.
-
-![Trading Decision Tool Demo](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Trading+Decision+Tool+Screenshot)
 
 ---
 
